@@ -1,9 +1,16 @@
 import pandas as pd
 
-class EditFile(object):
+class EditFile:
 
-    def edit(self):
-#         df = pd.read_csv('../assets/HalfHeusler.csv')
+    def __init__(self):
+        pass
+    
+#     def __init__(self, fp, fn):
+#         self.filePath = fp
+#         self.fileName = fn
+    
+    def generateFile(filePath, fileName):
+#         df = pd.read_csv(self.filePath)
         df = pd.read_csv(filePath)
         print (df.head())
 
@@ -15,5 +22,4 @@ class EditFile(object):
         df[n] = ["mp-" + str(x) for x in id_list]
         print (df.head())
 
-#         df.to_csv('Heusler compound.csv')
-        df.to_csv(fileName)
+        df.to_csv(fileName, index = False)
