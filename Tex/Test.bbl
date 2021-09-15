@@ -1,4 +1,20 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{andrejevic2020machine}
+N.~Andrejevic, J.~Andrejevic, C.~H. Rycroft, and M.~Li.
+\newblock Machine learning spectral indicators of topology.
+\newblock {\em arXiv preprint arXiv:2003.00994}, 2020.
+
+\bibitem{chonghe2003prediction}
+L.~Chonghe, T.~Yihao, Z.~Yingzhi, W.~Chunmei, and W.~Ping.
+\newblock Prediction of lattice constant in perovskites of gdfeo3 structure.
+\newblock {\em Journal of Physics and Chemistry of Solids}, 64(11):2147--2156,
+  2003.
+
+\bibitem{claussen2020detection}
+N.~Claussen, B.~A. Bernevig, and N.~Regnault.
+\newblock Detection of topological materials with machine learning.
+\newblock {\em Physical Review B}, 101(24):245117, 2020.
 
 \bibitem{commins:qhe}
 E.~D. Commins.
@@ -6,9 +22,145 @@ E.~D. Commins.
 \newblock {\em Annual Review of Nuclear and Particle Science}, 62:133--157,
   2012.
 
+\bibitem{de1983new}
+R.~De~Groot, F.~Mueller, P.~Van~Engen, and K.~Buschow.
+\newblock New class of materials: half-metallic ferromagnets.
+\newblock {\em Physical Review Letters}, 50(25):2024, 1983.
+
+\bibitem{dehghan2019d0}
+A.~Dehghan and S.~Davatolhagh.
+\newblock d0-d half-heusler alloys: A potential class of advanced spintronic
+  materials.
+\newblock {\em Journal of Alloys and Compounds}, 772:132--139, 2019.
+
+\bibitem{dietl2009exchange}
+T.~Dietl.
+\newblock Exchange interactions: Super-exchange, double exchange, rkky;
+  magnetic orders.
+\newblock {\em Annals of the West University of Timisoara. Physics Series},
+  53:24, 2009.
+
+\bibitem{feng2014first}
+L.~Feng, E.~Liu, W.~Zhang, W.~Wang, and G.~Wu.
+\newblock First-principles investigation of half-metallic ferromagnetism of
+  half-heusler compounds xyz.
+\newblock {\em Journal of magnetism and magnetic materials}, 351:92--97, 2014.
+
+\bibitem{fine1984elastic}
+M.~Fine, L.~Brown, and H.~Marcus.
+\newblock Elastic constants versus melting temperature in metals.
+\newblock {\em Scripta metallurgica}, 18(9):951--956, 1984.
+
+\bibitem{gilman2009chemistry}
+J.~J. Gilman.
+\newblock {\em Chemistry and physics of mechanical hardness}, volume~5.
+\newblock John Wiley \& Sons, 2009.
+
+\bibitem{graf2013magnetic}
+T.~Graf, J.~Winterlik, L.~M{\"u}chler, G.~H. Fecher, C.~Felser, and S.~S.
+  Parkin.
+\newblock Magnetic heusler compounds.
+\newblock In {\em Handbook of magnetic materials}, volume~21, pages 1--75.
+  Elsevier, 2013.
+
+\bibitem{heusler1903magnetisch}
+F.~Heusler, W.~Starck, and E.~Haupt.
+\newblock Magnetisch-chemische studien.
+\newblock {\em Verh. Dtsch. Phys. Ges}, 5:219--232, 1903.
+
+\bibitem{jiang2006prediction}
+L.~Jiang, J.~Guo, H.~Liu, M.~Zhu, X.~Zhou, P.~Wu, and C.~Li.
+\newblock Prediction of lattice constant in cubic perovskites.
+\newblock {\em Journal of Physics and Chemistry of Solids}, 67(7):1531--1536,
+  2006.
+
+\bibitem{khandy2017dft}
+S.~A. Khandy and D.~C. Gupta.
+\newblock Dft investigations on mechanical stability, electronic structure and
+  magnetism in co2taz (z= al, ga, in) heusler alloys.
+\newblock {\em Semiconductor Science and Technology}, 32(12):125019, 2017.
+
+\bibitem{ma2017computational}
+J.~Ma, V.~I. Hegde, K.~Munira, Y.~Xie, S.~Keshavarz, D.~T. Mildebrath,
+  C.~Wolverton, A.~W. Ghosh, and W.~Butler.
+\newblock Computational investigation of half-heusler compounds for spintronics
+  applications.
+\newblock {\em Physical Review B}, 95(2):024411, 2017.
+
+\bibitem{ming2019quantum}
+Y.~Ming, C.-T. Lin, S.~D. Bartlett, and W.-W. Zhang.
+\newblock Quantum topology identification with deep neural networks and quantum
+  walks.
+\newblock {\em npj Computational Materials}, 5(1):1--7, 2019.
+
+\bibitem{miyazaki2021machine}
+H.~Miyazaki, T.~Tamura, M.~Mikami, K.~Watanabe, N.~Ide, O.~M. Ozkendir, and
+  Y.~Nishino.
+\newblock Machine learning based prediction of lattice thermal conductivity for
+  half-heusler compounds using atomic information.
+\newblock {\em Scientific reports}, 11(1):1--8, 2021.
+
+\bibitem{ong2013python}
+S.~P. Ong, W.~D. Richards, A.~Jain, G.~Hautier, M.~Kocher, S.~Cholia,
+  D.~Gunter, V.~L. Chevrier, K.~A. Persson, and G.~Ceder.
+\newblock Python materials genomics (pymatgen): A robust, open-source python
+  library for materials analysis.
+\newblock {\em Computational Materials Science}, 68:314--319, 2013.
+
+\bibitem{ouyang2021machine}
+Y.~Ouyang, C.~Yu, G.~Yan, and J.~Chen.
+\newblock Machine learning approach for the prediction and optimization of
+  thermal transport properties.
+\newblock {\em Frontiers of Physics}, 16(4):1--16, 2021.
+
+\bibitem{ouyang2020accuracy}
+Y.~Ouyang, Z.~Zhang, C.~Yu, J.~He, G.~Yan, and J.~Chen.
+\newblock Accuracy of machine learning potential for predictions of
+  multiple-target physical properties.
+\newblock {\em Chinese Physics Letters}, 37(12):126301, 2020.
+
+\bibitem{srivastava2020investigation}
+V.~Srivastava, N.~Kaur, R.~Khenata, and S.~A. Dar.
+\newblock Investigation of the electronic, magnetic, elastic, thermodynamic and
+  thermoelectric properties of mn2cocr heusler compound: A dft-based
+  simulation.
+\newblock {\em Journal of Magnetism and Magnetic Materials}, 513:167107, 2020.
+
 \bibitem{klitzing:qhe}
 G.~E. Uhlenbeck and S.~Goudsmit.
 \newblock Spinning electrons and the structure of spectra.
 \newblock {\em Nature}, 117(2938):264--265, 1926.
+
+\bibitem{wan2019materials}
+X.~Wan, W.~Feng, Y.~Wang, H.~Wang, X.~Zhang, C.~Deng, and N.~Yang.
+\newblock Materials discovery and properties prediction in thermal transport
+  via materials informatics: a mini review.
+\newblock {\em Nano letters}, 19(6):3387--3395, 2019.
+
+\bibitem{wang2021prediction}
+Y.~Wang, A.~Kandeal, A.~Swidan, S.~W. Sharshir, G.~B. Abdelaziz, M.~Halim,
+  A.~Kabeel, and N.~Yang.
+\newblock Prediction of tubular solar still performance by machine learning
+  integrated with bayesian optimization algorithm.
+\newblock {\em Applied Thermal Engineering}, 184:116233, 2021.
+
+\bibitem{wu2017critical}
+S.-C. Wu, S.~S. Naghavi, G.~H. Fecher, and C.~Felser.
+\newblock A critical study of the elastic properties and stability of heusler
+  compounds: phase change and tetragonal $ x\_ $\{$2$\}$ yz $ compounds.
+\newblock {\em arXiv preprint arXiv:1704.01741}, 2017.
+
+\bibitem{zhang2017two}
+R.~Zhang, L.~Damewood, Y.~Zeng, H.~Xing, C.~Fong, L.~Yang, R.~Peng, and
+  C.~Felser.
+\newblock Two prospective li-based half-heusler alloys for spintronic
+  applications based on structural stability and spin--orbit effect.
+\newblock {\em Journal of Applied Physics}, 122(1):013901, 2017.
+
+\bibitem{zhang2020machine}
+Y.~Zhang and X.~Xu.
+\newblock Machine learning modeling of lattice constants for half-heusler
+  alloys.
+\newblock {\em AIP Advances}, 10(4):045121, 2020.
 
 \end{thebibliography}

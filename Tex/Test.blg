@@ -3,46 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Test.aux
 The style file: abbrv.bst
 Database file #1: ref.bib
-Warning--I didn't find a database entry for "dietl:exchange"
-You've used 2 entries,
+You've used 27 entries,
             2118 wiz_defined-function locations,
-            515 strings with 3995 characters,
-and the built_in function-call counts, 645 in all, are:
-= -- 67
-> -- 20
-< -- 0
-+ -- 8
-- -- 6
-* -- 47
-:= -- 113
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 9
+            679 strings with 9388 characters,
+and the built_in function-call counts, 10551 in all, are:
+= -- 988
+> -- 688
+< -- 3
++ -- 272
+- -- 244
+* -- 899
+:= -- 1847
+add.period$ -- 82
+call.type$ -- 27
+change.case$ -- 202
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 22
-empty$ -- 54
-format.name$ -- 6
-if$ -- 129
+cite$ -- 27
+duplicate$ -- 305
+empty$ -- 683
+format.name$ -- 244
+if$ -- 2071
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 5
+int.to.str$ -- 27
+missing$ -- 28
+newline$ -- 138
+num.names$ -- 54
+pop$ -- 162
 preamble$ -- 1
-purify$ -- 7
+purify$ -- 176
 quote$ -- 0
-skip$ -- 15
+skip$ -- 198
 stack$ -- 0
-substring$ -- 60
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 621
+swap$ -- 34
+text.length$ -- 3
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
+type$ -- 106
 warning$ -- 0
-while$ -- 8
-width$ -- 3
-write$ -- 24
-(There was 1 warning)
+while$ -- 93
+width$ -- 29
+write$ -- 299
